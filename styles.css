@@ -7,7 +7,20 @@ h1 {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 1000%;
     text-align: center;
-    position: fixed;
-    left: 0;
-    width: 100%;
+}
+
+#faqs {
+    color: limegreen;
+    font-family: 'IBM Plex Sans', sans;
+    text-align: center;
+}
+
+#question {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#answer {
+    text-indent: 1em;
+    font-size: 0.75rem;
 }
