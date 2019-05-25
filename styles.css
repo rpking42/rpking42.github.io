@@ -1,0 +1,13 @@
+body {
+    background-color: #16161d; /* Eigengrau */
+}
+
+h1 {
+    color: limegreen;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1000%;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    width: 100%;
+}
